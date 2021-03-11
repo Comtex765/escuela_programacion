@@ -1,0 +1,11 @@
+p {
+    color: blueviolet;
+}
+/* class */
+.parrafo{
+    color: chartreuse;
+}
+/* ID */
+#texto{
+    color: deepskyblue;
+}
