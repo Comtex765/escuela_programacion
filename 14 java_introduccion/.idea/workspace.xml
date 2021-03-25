@@ -7,41 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36fb22e5-8892-4173-9ab1-700588af1fc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../12 manejo_datos_php/.idea/12 manejo_datos_php.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/14 java_introduccion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_11/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_11/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_11/Version_11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_11/src/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/Version_8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/src/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/src/HolaMundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Version_8/src/MathematicOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../14 java_basico/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14 java_introduccion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/HolaMundoJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/out/production/HolaMundoJava/HolaMundi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/out/production/HolaMundoJava/updatingVariables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/out/production/HolaMundoJava/variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/src/HolaMundi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/src/updatingVariables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proyecto1/src/variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Version_8/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Version_8/src/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Version_8/src/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Version_8/src/WhileLopp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4 git_github/proyecto1" beforeDir="false" afterPath="$PROJECT_DIR$/../4 git_github/proyecto1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +46,16 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Application.Casting">
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
+      <module name="Version_8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
       <module name="Version_8" />
@@ -85,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathematicOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathematicOperations" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
+      <module name="Version_8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions" />
+      <module name="Version_8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLopp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLopp" />
       <module name="Version_8" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,8 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.WhileLopp" />
+        <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Casting" />
-        <item itemvalue="Application.MathematicOperations" />
       </list>
     </recent_temporary>
   </component>
