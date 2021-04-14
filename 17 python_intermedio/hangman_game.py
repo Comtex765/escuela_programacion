@@ -171,7 +171,7 @@ def you_win():
           "  /    \                 \n",
           " /      \                \n")
 
-    win = "Felicidades, GANASTE"
+    win = "Congratulations, YOU WIN"
     
     print("\n"+"+"*(2 + len(win))+
           "\n|"+win+"|\n"+
@@ -199,7 +199,7 @@ def game_over(word_chose):
           "    /    \   |HELP|   |||            \n",
           "   /      \  +----+   |||            \n\n")
 
-    win = ":( PERDISTE ):"
+    win = ":( You LOSE ):"
     
     print("+"*(2 + len(win))+
           "\n|"+win+"|\n"+
@@ -241,7 +241,7 @@ def game():
 
         try:
 
-            key = input("Ingresa una letra para comprobar: ")
+            key = input("Tell me a letter(Dime una letra): ")
             os.system("clear")
 
 
