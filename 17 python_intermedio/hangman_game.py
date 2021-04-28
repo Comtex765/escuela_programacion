@@ -3,7 +3,7 @@ import os
 import time
 
 
-def drawMan(lifes):
+def draw_man(lifes):
     if lifes == 6:   
         print(" ######### \n",
               "# o     o #\n",
@@ -223,7 +223,7 @@ def game():
         confirms = 0
         aux = 0 
 
-        drawMan(lifes)
+        draw_man(lifes)
 
         for i in range(len(chose)):
 
