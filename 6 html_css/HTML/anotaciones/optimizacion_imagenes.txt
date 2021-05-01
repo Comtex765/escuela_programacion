@@ -1,4 +1,0 @@
-Tiny PNG para comprimir el tamaño
-Verefix para quitar los metadatos
-
-Tamaño de 70 kB

@@ -1,0 +1,113 @@
+html{
+    font-size: 62.5%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #3f3f4f;
+    height: 12rem;
+    min-width: 1230px;
+}
+
+.brock{
+    margin-top: 1rem;
+    margin-left: 4rem;
+    border-radius: 13rem;
+    height: 10rem;
+}
+
+
+.nav{
+    list-style: none;
+    text-align: right;
+}
+
+.nav li{
+    display: inline-block;
+    font-size: 2.5rem;
+    margin: 1rem;
+    position: relative;
+    bottom: 4rem;
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+
+}
+
+.nav a{
+    text-decoration: none;
+    color: #dbd7da;
+}
+
+.list a:hover{
+    color: #6f7a70;
+}
+
+.principal{
+    background-color: #6e053a;
+    width: 20rem;
+    height: 60rem;
+    position: relative;
+    display: inline-block;
+    border: 3px black solid;
+}
+
+section h1{
+    color: black;
+    background-color: #8a4367;
+    width: 16rem;
+    height: 10rem;
+    position: relative;
+    top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 2rem;
+    font-size:3rem;
+    text-align:center;
+    padding-top: 3rem;
+    border-radius: 2.5rem;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+}
+main{
+    background-color: #6565a6;
+    margin: 0;
+    display: inline-block;
+    width: auto;
+    height: 60rem;
+    position: absolute;
+    font-size: 1.8rem;
+    padding: 2rem;
+    text-align: justify;
+    font-family: Verdana, Geneva, 'Tahoma', sans-serif;
+    line-height: 2.5rem;
+    width: auto;
+    min-width: 1030px;
+    border: 3px black solid;
+}
+
+footer p{
+    background-color: #445e33;
+    height: 3.9rem;
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-family: Verdana, Geneva, Tahoma, 'sans-serif';
+    position: absolute;
+    bottom: 0.2rem;
+    width: 153.6rem;
+    border: 3px black solid;
+
+}
+
+footer{
+    display: flex;
+    min-width: 1230px;
+}
+
+footer img{
+    display: inline-block;
+    width: 3.5rem;
+    position: absolute;
+    left: 140rem;
+}

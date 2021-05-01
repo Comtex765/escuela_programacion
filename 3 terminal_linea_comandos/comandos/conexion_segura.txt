@@ -1,7 +1,0 @@
-Envío de datos seguro
-ssh: Secure shell (Terminal segura),Con este comando ingresamos a un servidod de manera segura.
-ejemplo: ssh leeway -prod
-.
-mail: Nos permite enviar un email desde el servidor. Para que este comando funcione hay que tener algunas cosas configuradas
-.
-Ejemplo: echo “Probando” | mail -s(-s: es el asunto del correo) “Probando para platzi” mchojrin1@hotmail.com"
