@@ -8,6 +8,6 @@ def swap_text(s):
     
     return result
 
-array = 'HolA ComO ESTAs'
+array = 'CamBIAnDo LaS lETRas'
 
 print(swap_text(array))
