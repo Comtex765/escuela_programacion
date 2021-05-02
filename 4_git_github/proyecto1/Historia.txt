@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
@@ -5,3 +6,12 @@ Freddy Vega tiene 32 años y nació en Colombia
 Anita Platzi tiene 41 años y nació en Internet
 
 Mañana nos enfocaremos en su vida laboral
+=======
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Anita Platzi tiene 41 años y nació en Internet
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12

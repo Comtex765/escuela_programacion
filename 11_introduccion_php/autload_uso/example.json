@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "platzi",
     "description": "Instituto Online",
@@ -9,4 +10,17 @@
     "example": "TEXTO",
     "example2": 2,
     "example3": false
+=======
+{
+    "name": "platzi",
+    "description": "Instituto Online",
+    "courses": {
+        "advanced": ["PHP", "VUEjs"],
+        "basic"   : ["HTML", "JSON"]
+    },
+    
+    "example": "TEXTO",
+    "example2": 2,
+    "example3": false
+>>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
 }

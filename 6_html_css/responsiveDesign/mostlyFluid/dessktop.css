@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @media (min-width: 800px){
     .container{
         width: 800px;
@@ -16,4 +17,24 @@
     .c5{
         width: 34%;
     }
+=======
+@media (min-width: 800px){
+    .container{
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .c1{
+        width: 60%;
+    }
+    .c2{
+        width: 40%;
+    }
+    .c3, .c4{
+        width: 33%;
+    }
+    .c5{
+        width: 34%;
+    }
+>>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
 }

@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Los moficadoes de acceso son el privado cuando la funcion o atributos 
+=======
+Los moficadoes de acceso son el privado cuando la funcion o atributos 
+>>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
 estan iniciando en minuscula, es publico cunado empiezan en mayuscula

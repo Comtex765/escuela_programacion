@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Tiny PNG para comprimir el tamaño
 Verefix para quitar los metadatos
 
+=======
+Tiny PNG para comprimir el tamaño
+Verefix para quitar los metadatos
+
+>>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
 Tamaño de 70 kB

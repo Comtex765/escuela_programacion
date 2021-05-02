@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html{
     font-size: 62.5%;
 }
@@ -6,4 +7,14 @@ h1{
 }
 p{
     font-size: 1.8rem;
+=======
+html{
+    font-size: 62.5%;
+}
+h1{
+    font-size: 3rem;
+}
+p{
+    font-size: 1.8rem;
+>>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
 }
