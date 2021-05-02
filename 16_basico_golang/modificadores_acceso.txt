@@ -1,0 +1,2 @@
+Los moficadoes de acceso son el privado cuando la funcion o atributos 
+estan iniciando en minuscula, es publico cunado empiezan en mayuscula
