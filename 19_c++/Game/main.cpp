@@ -14,6 +14,7 @@ int main()
     GameMap Map;
     Player Hero;
 
+
     Map.DrawIntro();
     Map.Draw();
 

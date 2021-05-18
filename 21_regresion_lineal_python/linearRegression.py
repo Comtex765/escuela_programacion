@@ -29,13 +29,15 @@ def plot_regression(x,y,b):
     plt.xlabel('x-Independiente')
     plt.ylabel('y-Dependiente')
 
+    plt.savefig('diagrama-dispersion.png')
+    
     plt.show()
 
 #Codigo MAIN
 def main():
     #DATASET
-    x = np.array([1,2,3,4,5])
-    y = np.array([2,3,5,6,5])
+    x = np.array([1,2,3,4,5,4,9,6,6,4,12])
+    y = np.array([2,3,5,6,5,7,8,9,10,11,12])
 
     #Obtenemos b1 y b2
     b = estimate_b0_b1(x, y)
