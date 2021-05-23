@@ -390,7 +390,7 @@ AHORA TODOS 267. A que persona has querido como nunca?:
 433. ¿En qué supermercado compras la mercadería?:
 434. ¿Tienes funda para tu computador?:
 435. ¿Sabías que  de 1 c/4 personas sufre algún trastorno en su cabeza? :
-436. ¿Es correcto decir que la mitad de + es ?:
+436. ¿Es correcto decir que la mitad de 2+2 es 3?:
 437. ¿Qué dirías si supieras que tenía una pregunta muy buena y se me olvido?:
 439. ¿Sabías que las religiones abrahamistas(cristianismo, judaismo e islamismo)son religiones misóginas?:
 441. Un mensaje para la humanidad creado por ti:
