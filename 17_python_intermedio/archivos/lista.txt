@@ -72,7 +72,7 @@
 100. Te burlas de la gente:
 101. ¿Qué escuchas ahora?:
 102. Hora y día:
-TUS GUSTOS Y PREFERENCIAS 103. Quieres seguir respondiendo?:
+103. Quieres seguir respondiendo?:
 104. Colores favoritos:
 105. Olor favorito:
 106. Olor que odias?:
@@ -230,7 +230,7 @@ TUS GUSTOS Y PREFERENCIAS 103. Quieres seguir respondiendo?:
 264. ¿Alguna chica ronda tus pensamientos?:
 265. Cuál es su nombre?:
 266. Que canción le dedicarias?:
-AHORA TODOS 267. A que persona has querido como nunca?:
+267. A que persona has querido como nunca?:
 268. Sientes miedo cuando empiezas a querer alguien?:
 269. Qué piensas de tu pareja?:
 270. Que sientes ante un amor imposible?:

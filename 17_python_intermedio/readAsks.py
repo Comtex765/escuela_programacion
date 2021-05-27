@@ -16,6 +16,9 @@ def chooseAsk():
                 while True:
                     numsList = [line for line in h]
 
+                    if len(numsList) == len(data):
+                        theEnd()
+
                     if numP in numsList:
                         while numP in numsList:
                             num = randint(0,402)
@@ -25,6 +28,10 @@ def chooseAsk():
                         g.write(str(num))
                         g.write("\n")
                         break
+
+                    large = len(numsList)
+
+                    print(f"# preguntas hechas = {large}")
     return data[num]
 
 def showAsk(ask):
@@ -34,7 +41,15 @@ def showAsk(ask):
 
     print("\033[1;33m"+"\n",ask,end="")
 
+def theEnd():
+    print(" +------------------+\n",
+          "|PREGUNTAS ACABADAS|\n",
+          "+------------------+")
 
+    with open("./archivos/end.txt","r",encoding="utf-8") as i:
+        for line in i:
+            print(line,end="")
+    exit()
 
 
 def run():

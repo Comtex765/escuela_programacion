@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -6,13 +5,4 @@
       <module fileurl="file://$PROJECT_DIR$/15 java_poo.iml" filepath="$PROJECT_DIR$/15 java_poo.iml" />
     </modules>
   </component>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/15 java_poo.iml" filepath="$PROJECT_DIR$/15 java_poo.iml" />
-    </modules>
-  </component>
->>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
 </project>

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Configurar los Breakpoint
 $xs: 360px; //Dispositivos muy pequeños
 $s: 440px; //Un pixel 2
@@ -68,75 +67,4 @@ $xl: 1440px; //Dispositivos desktopt de más calidad
   grid-column-gap: var(--column-gap);
   grid-template-columns: repeat(var(--columns), minmax(0, 1fr));
   position: relative;
-=======
-// Configurar los Breakpoint
-$xs: 360px; //Dispositivos muy pequeños
-$s: 440px; //Un pixel 2
-$m: 768px; //IPAD
-$l: 1280px; //Desktop
-$xl: 1440px; //Dispositivos desktopt de más calidad
-
-
-@mixin for-size($size) {
-  @if $size == xs {
-    @media (max-width: $s) {
-      @content;
-    }
-  } @else if $size == m {
-    @media (min-width: $m) {
-      @content;
-    }
-  } @else if $size == l {
-    @media (min-width: $l) {
-      @content;
-    }
-  } @else if $size == xl {
-    @media (min-width: $xl) {
-      @content;
-    }
-  }
-}
-
-//Configuracion de las columnas
-:root {
-  --columns: 4;
-  --column-gap: 6.67%;
-
-  @include for-size(m) {
-    --columns: 12;
-    --column-gap: 2.27%;
-  }
-
-  @include for-size(l) {
-    --columns: 12;
-    --column-gap: 2.19%;
-  }
-}
-
-//Configuracion de la grilla
-.grid {
-  margin: 0 16px;
-
-  @include for-size(m) {
-    margin: 0 32px;
-  }
-
-  @include for-size(l) {
-    margin: 0 80px;
-  }
-
-  @include for-size(xl) {
-    margin: 0 auto;
-    max-width: 1280px;
-  }
-}
-
-//Configuracion de la grillas y la subgrilla
-.grid,
-.subgrid {
-  display: grid;
-  grid-column-gap: var(--column-gap);
-  grid-template-columns: repeat(var(--columns), minmax(0, 1fr));
-  position: relative;
->>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
 }

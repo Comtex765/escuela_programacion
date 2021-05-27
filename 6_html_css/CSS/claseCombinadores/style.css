@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* 
 Sifnifica que a los p que estén cerca de un h2 les aplique
 el color o los otros estilos
@@ -25,32 +24,4 @@ div p{
     color: blue;
     font-size: 89px;
 }
-=======
-/* 
-Sifnifica que a los p que estén cerca de un h2 les aplique
-el color o los otros estilos
-h2 + p{ 
-    color: blue;
-} 
-
-Combinador general Sibling aplica a todos los p de un mismo grupo o nivel s
-si existe un h2
-
- h2 ~ p{
-     color: darkblue;
-     font-size: 40px;
- }
- 
-Etiqueta p que sea hija de un div hijo directo
-  div > p{
-    color: chartreuse;
-    font-size: 70px;
- }
-
-la de descendiente es la más común
-div p{
-    color: blue;
-    font-size: 89px;
-}
->>>>>>> d1bff8aa9e084cc099db80a3377014aa5d90fe12
  */
