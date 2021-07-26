@@ -4,7 +4,7 @@ import time
 
 
 def draw_man(lifes):
-    if lifes == 6:   
+    if lifes == 6:
         print(" ######### \n",
               "# o     o #\n",
               "#   /|    #\n",
@@ -92,7 +92,7 @@ def draw_man(lifes):
               "     /  \             |||            \n",
               "    /    \            |||            \n",
               "   /      \           |||            \n")
-        
+
 
 def read_data():
     """[Read data's file]
@@ -101,7 +101,7 @@ def read_data():
         [array]: [return an array from data.txt]
     """
     with open("./archivos/data.txt", "r", encoding="utf-8") as f:
-            data = [line for line in f]
+        data = [line for line in f]
     return data
 
 
@@ -117,7 +117,7 @@ def normalize(s):
         s = s.replace(a, b).replace(a.upper(), b.upper())
     return s
 
-    
+
 def choose_word(data):
     """[Choose a random word from DATA array]
 
@@ -135,8 +135,8 @@ def choose_word(data):
 def game_start():
     welcome = "Bienvenido a HANGMAN GAME"
 
-    print("+"*(2 + len(welcome))+
-          "\n|"+welcome+"|\n"+
+    print("+"*(2 + len(welcome)) +
+          "\n|"+welcome+"|\n" +
           "+"*(2 + len(welcome)))
 
     time.sleep(2)
@@ -172,9 +172,9 @@ def you_win():
           " /      \                \n")
 
     win = "Congratulations, YOU WIN"
-    
-    print("\n"+"+"*(2 + len(win))+
-          "\n|"+win+"|\n"+
+
+    print("\n"+"+"*(2 + len(win)) +
+          "\n|"+win+"|\n" +
           "+"*(2 + len(win)))
 
     time.sleep(1)
@@ -200,11 +200,11 @@ def game_over(word_chose):
           "   /      \  +----+   |||            \n\n")
 
     win = ":( You LOSE ):"
-    
-    print("+"*(2 + len(win))+
-          "\n|"+win+"|\n"+
+
+    print("+"*(2 + len(win)) +
+          "\n|"+win+"|\n" +
           "+"*(2 + len(win)))
-    
+
     print("\n")
     print("La palabra era: ", word_chose)
 
@@ -221,7 +221,7 @@ def game():
 
     while(True):
         confirms = 0
-        aux = 0 
+        aux = 0
 
         draw_man(lifes)
 
@@ -235,7 +235,7 @@ def game():
                     os.system("clear")
                     you_win()
             else:
-                print("_",end="")
+                print("_", end="")
 
         print('\n\n')
 
@@ -244,9 +244,9 @@ def game():
             key = input("Tell me a letter(Dime una letra): ")
             os.system("clear")
 
-
             if key.isnumeric() or len(key) > 1 or len(key) == 0:
-                raise Exception("Debes ingresar SOLO una letra, tampoco debes ingresar números ni espacios vacíos")
+                raise Exception(
+                    "Debes ingresar SOLO una letra, tampoco debes ingresar números ni espacios vacíos")
 
             for letter in no_accent:
                 if letter == key.lower():
@@ -254,7 +254,7 @@ def game():
                         continue
                     else:
                         corrects.append(key)
-            
+
             for i in range(len(no_accent)):
                 if key.lower() != no_accent[i]:
                     confirms += 1

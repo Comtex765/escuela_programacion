@@ -16,22 +16,22 @@ def chooseAsk():
                 while True:
                     numsList = [line for line in h]
 
-                    if len(numsList) == len(data):
+
+                    if (len(numsList)) + 1 == len(data):
                         theEnd()
 
                     if numP in numsList:
                         while numP in numsList:
                             num = randint(0,402)
                             numP = str(num) + "\n"
-
                     else:
                         g.write(str(num))
                         g.write("\n")
                         break
 
-                    large = len(numsList)
-
+                    large = (len(numsList)) + 1
                     print(f"# preguntas hechas = {large}")
+
     return data[num]
 
 def showAsk(ask):

@@ -1,403 +1,403 @@
-26. Del 1 al 10, ¿que tan exagerado te consideras?: 
-27. del 1 al 10, ¿qué tan ocioso te consideras?: 
-28. Que nombre le pondrías a tu(s) hija(s)?: 
-29. Qué nombre le pondrías a tu(s) hijo(s)?:  
-30. Tienes piercings, tatuajes o algo por el estilo?:
-31. ¿y tienes el pelo teñido?:
-32. si pudieras teñirte el pelo de que color seria?:
-33. Haz guardado secretos?:
-34. Te has drogado?:
-37. Quisieras besar apasionadamente a alguien:
-38. Tocas algún instrumento musical:
-39. Palabras que más dices:
-40. ¿Sabías que este número()corresponde al chorrocientos mil de los judíos?:
-42. Lugar al que más te gusta ir:
-43. Que es lo que más te gustaría tener en tu vida:
-44. La persona que más extrañas:
-45. Quién no te fallaría nunca:
-46. Que te pone de buenas:
-47. Duermes con peluches:
-48. Hora en que te vas a dormir normalmente:
-49. Dónde vives:
-50. Estás aburrido(a)?:
-51. Eres bueno(a) para contar chistes?:
-52. Quién te ha hecho madurar?:
-53. Quién te ha dado el golpe mas duro en tu vida:
-54. Quién te ha hecho pensar?:
-55. Has llorado?:
-56. ¿Quisiste tanto a alguien como para llorar?:
-57. Cuál ha sido la pena más grande que has pasado?:
-58. Quién es tu mejor cyber-amigo(a)?:
-59. Que es lo mejor que cocinas?:
-60. Alguna vez has vomitado?:
-61. Has vomitado por borrachera?:
-62. ¿Estás consciente de que ni siquiera has empezado el cuestionario?:
-63. ¿Tomas?:
-64. En que Universidades has quedado:
-65. Sabes manejar?:
-66. Tienes auto?:
-67. Tienes licencia?:
-68. Cuál es el sentimiento mas detestado por ti?:
-69. Cuál es el sentimiento mas apreciado por ti?:
-70. Mejores amigos:
-71. Amigos Especiales:
-72. Has perdido a algún buen amigo por tu culpa?:
-73. Te has puesto a llorar por teléfono?:
-74. Confías en la gente con facilidad?:
-75. Que es lo más duro que te han dicho en tu vida?:
-76. Que es lo que más te molesta de ti?:
-77. te pones triste con canciones melancólicas:
-78. De que color son los ojos de tu mamá?:
-79. Y de qué color son los ojos de tu papá?:
-80. Has fumado?:
-81. te has emborrachado?:
-82. Sabes otro idioma:
-83. Que vas a estudiar en la Universidad?:
-84. ¿Por que partes de Chile has viajado?:
-85. Estuviste en un choque de autos:
-86. Cómo llamabas a tu osito de dormir?:
-87. Cuál es el auto de tus sueños:
-88. ¿Cuál fue tu primer coche?:
-89. La Persona que más Quieres en el mundo:
-90. La Persona que más ODIAS en el Mundo:
-91. Tu héroe (además de ti):
-92. ¿Que es lo que siempre has deseado?:
-93. ¿Qué es lo que siempre has detestado?:
-94. ¿Tomas o Fumas?:
-95. La Persona que más feliz te ha hecho en tu vida?:
-96. Tuviste un amigo imaginario cuando eras pequeño (a)?:
-97. Alguna vez nadaste desnudo:
-98. Te llevas bien con tus viejos:
-99. Descríbete en  palabras:
-100. Te burlas de la gente:
-101. ¿Qué escuchas ahora?:
-102. Hora y día:
-103. Quieres seguir respondiendo?:
-104. Colores favoritos:
-105. Olor favorito:
-106. Olor que odias?:
-107. Mejor pecado del mundo:
-108. Revista favorita:
-109. Estación que te gusta mas:
-110. Carta o mail:
-111. Equipo de fútbol:
-112. Programa de TV favorito:
-113. Juego de mesa favorito:
-114. Una almohada o dos:
-115. Juguete favorito:
-116. Comida favorita:
-117. Salchichas o hamburguesas?:
-118. Restaurante favorito:
-119. Restaurante de comida rápida favorito:
-120. Cuál es tu película favorita?:
-121. Cuál es tu comic favorito?:
-122. Canal de cable favorito?:
-123. Serie favorita?:
-124. ¿Filosofía o psicología?:
-125. Arte preferido:
-126. Chocolate blanco o negro:
-127. Vainilla o chocolate:
-128. Tarta o pie:
-129. Plata u oro:
-130. ¿Lluvia o sol?:
-131. ¿Sprite o Seven Up?:
-132. ¿Café o té?:
-133. ¿Sabanas lisas o con animalitos?:
-134. ¿Color de calcetines?:
-135. ¿Feria o fiesta favorita?:
-136. Condimento favorito en una ensalada:
-137. ¿La Gaseosa, con o sin hielo?:
-138. ¿Disney o Warner Bros?:
-139. Que tipo de música te gusta?:
-140. Cuál es tu grupo favorito?:
-141. Cantante masculino y femenino favorito:
-142. Canción favorita:
-143. ¿Paraiso o infierno?:
-144. Color de ropa interior preferido:
-145. Te gusta que te quieran?:
-146. Te gusta llorar?:
-147. Cuál es tu personaje de TV preferido:
-148. Coca-Cola o Pepsi?:
-149. ¿Prefieres que te preparen el desayuno o que te lo prepares tú?:
-150. Te gusta cocinar?:
-151. Donde te gustaría viajar?:
-152. Dónde te gustaría quedarte a vivir?:
-153. Te gustan las estrellas?:
-154. Te gusta la mitología:
-155. Te gustan los chats?:
-156. Lo que más te gusta hacer en el mundo, además de llenar este tipo de cuestionarios:
-158. te gusta tomar licor?:
-159. Cuál es tu deporte favorito?:
-160. cual es tu numero favorito:
-161. Marca de zapatos favorita:
-162. animal favorito:
-163. Días favoritos:
-164. Te gusta el teatro?:
-165. Cuál es tu hobby?:
-166. Quisieras ir a Marte?:
-167. Fruta favorita?:
-168. Cuál es tu libro favorito?:
-169. Pagina web favorita?:
-170. Hot-dog o choripan:
-171. Asignatura favorita?:
-172. Feriado favorito:
-173. Flor:
-174. Tema de conversación más detestado:
-175. Mejor serie infantil de todos los tiempos?:
-176. Tom o Jerry?:
-177. Frase preferida:
-178. Fiestas en Casa o Discos?:
-180. Música Preferida Para Bailar:
-181. Música Detestada Para Bailar:
-182. Juego de Video Favorito:
-183. Te gustan las peliculas felices o de terror:
-184. Sonido favorito?:
-185. Cosa favorita de la vida?:
-186. Shampoo favorito:
-187. Helado favorito:
-188. ¿Winamp o windows media player?:
-189. ¿Café caliente o helado?:
-190. ¿Té caliente o helado?:
-191. ¿Qué escuchas ahora?:
-192. Hora y día:
-193. Crees bueno seguir respondiendo?:
-194. Qué opinas de tu mamá:
-195. Y tu papá:
-196. El peor sentimiento del mundo:
-197. El mejor sentimiento del mundo:
-198. A quien consideras/te especial de tu colegio?:
-199. Quién te parece misterioso (a)?:
-200. Quién te parece el/la mas gracioso?:
-202. Persona + loca y + simple que conoces:
-203. ¿El vaso, mitad lleno o mitad vacío?:
-204. Que piensas de la muerte?:
-205. Crees en Dios?:
-206. Qué piensas de las películas porno?:
-207. Qué piensas de los gays?:
-208. Qué piensas de las lesbianas?:
-209. Tendencia Política:
-210. Qué opinas de la tabla Ouija?:
-211. Que piensas de “Celebrity Death Match”?:
-212. CREES En ti mism@:
-213. CREES En tus amigos:
-214. CREES En el destino:
-215. CREES En Angeles:
-216. CREES En Fantasmas :
-217. ¿Politeísta o monoteísta?:
-218. Tu religión:
-219. ¿Crees tú que el ser humano ha superado la etapa mercantilista de la economía?:
-221. ¿Quién te puede asegurar que esto no es una teleserie y tú no eres el/la personaje central o un o secundario?:
-222. ¿Entendiste la pregunta anterior?:
-223. ¿Qué te hace pensar que no hay alguien que te está mirando en este preciso instante?:
-224. ¿Cuál es según tú lo peor que le pudo haber pasado a este mundo?:
-225. ¿Crees en la vida inteligente extraterrestre?:
-226. ¿Crees que el ser humano es un ser estúpido o inteligente?:
-227. ¿Qué estás escuchando ahora?:
-228. fecha y hora:
-230. Amor platónico:
-232. Te ha gustado algún/a amigo/a tuyo/a:
-233. Le darías un beso apasionado a la persona que te mandó este correo?:
-234. Y darías un beso apasionado a alguien de los que mandaste este mail?:
-235. Estas enamorado?:
-236. ¿Pelo corto o largo?:
-237. ¿Alto o pequeño?:
-238. Cuadrado o musculitos:
-239. Chico bueno o malo:
-240. Con dinero o sin dinero:
-241. pendientes en la oreja:
-242. Con pecas o sin:
-243. Con barba o afeitado:
-244. ¿Algún chico ronda tus pensamientos?:
-245. ¿Cuál es su nombre?:
-246. ¿Qué canción le dedicarías?:
-247. Braguita normal o tanga:
-248. Uñas pintadas o sin pintar:
-249. Sujetador normal o deportivo:
-250. Tranquila y misteriosa o sexy y salvaje:
-251. Pijilla o rapera:
-252. Pelo corto o largo:
-253. Uñas largas o cortas:
-254. Chica buena o mala:
-255. Rellenita o delgada:
-256. Pelo recogido o suelto:
-257. Alta o baja:
-258. Pelo rizado o liso:
-259. Morenita de piel o blanca:
-260. Con pecas o sin pecas:
-261. Chica en plan fiesta o más bien tranquila:
-262. Lanzada o tímida:
-263. Rubia o Morena?:
-264. ¿Alguna chica ronda tus pensamientos?:
-265. Cuál es su nombre?:
-266. Que canción le dedicarias?:
-267. A que persona has querido como nunca?:
-268. Sientes miedo cuando empiezas a querer alguien?:
-269. Qué piensas de tu pareja?:
-270. Que sientes ante un amor imposible?:
-271. Alguna vez has tenido un amor imposible?:
-272. ¿Estuviste enamorado?:
-273. Dónde te gusta que te besen?:
-274. Te gustan las citas a ciegas?:
-275. Eres sensible?:
-276. Cuál es la mujer / hombre perfecto para ti?:
-277. Que le quieres decir a la persona que amas con tanta pasión?:
-278. Que le quieres decir a la persona que te ama con tanta pasión?:
-279. Te gusta hablar del amor?:
-280. Te has podido levantar a alguien con novio (a)?:
-281. Has profanado?:
-283. Le has enseñado a alguien a besar?:
-284. ¿Que Prefieres, que alguien conquiste tu corazón, o que tu conquistes el de ella?:
-285. La Persona que más has AMADO en todo el tiempo que has vivido?:
-286. La Persona más linda(o), regia(o) que hallas conocido:
-287. Eres capas de amar tanto a una persona que llegarías a dar tu vida por él/ella:
-288. Si tú estas pololeando, y tu mejor amiga(o) intenta de quitarte a tu pololo(a) ¿que le harías?:
-289. ¿Lugar favorito para estar con tu pareja (pololo[a])?:
-290. Tú…si tuvieras que elegir entre tu MEJOR amigo(a) o tu pololo(a)…:
-291. Si Tu pololo(a) se va a vivir muy lejos de ti, y solo se podrían ver en las vacaciones ¿tú seguirías con el(ella) o darías todo como acabado?:
-292. ¿Has Soñado con esa persona que amas más de una vez?:
-294. Besos o abrazos?:
-296. Alguna vez quisiste andar con un amigo(A)?:
-297. Estuviste enamorado(A) de un maestro(A):
-298. prefieres noviazgo o free:
-300. Qué escuchas ahora:
-301. Fecha y hora:
-302. Estas consciente que aun quedan muchas mas preguntas por responder?:
-303. Que piensas sobre la persona que te mandó esto?:
-304. Cómo te sientes hoy?:
-305. Qué hay a tu lado?:
-306. Cómo estas vestida(o)?:
-307. Tienes sueño?:
-308. ¿En qué(o quién) piensas en este momento, fuera del cuestionario?:
-309. De que color es tu ropa interior hoy?:
-310. ¿tienes los cordones de lo que lleves en los pies bien amarrados?:
-312. Estás hablando con alguien:
-313. Cuál es el nombre más raro que has escuchado?:
-314. Te ha tocado una cucaracha (o algo parecido) en la hamburguesa o en el refresco?:
-315. Que vas a hacer después de llenar el cuestionario?:
-316. ¿Cuánto piensas antes de contestar?:
-317. A quien pondrías o tienes en lista?:
-318. ¿Te has roto alguna vez un hueso?:
-319. Cantas en la ducha?:
-320. Algo q no soportes:
-321. ¿Fuiste a África?:
-322. ¿Fuiste a Europa?:
-323. ¿Fuiste a Asia?:
-324. ¿Fuiste a Oceanía?:
-325. ¿Fuiste a América del Norte?:
-326. ¿Fuiste a América Central?:
-327. ¿Fuiste al Caribe?:
-328. ¿Fuiste a América del Sur?:
-329. ¿Luego de tantos “no’s”, has salido del país donde vives?:
-330. ¿Cuántas veces suspendiste tu examen de conducir?:
-331. ¿Qué cambiarías de tu vida?:
-332. ¿Que dejarías como está?:
-333. ¿Si pudieras ser otra persona?:
-334. a quien odias de tu salon?:
-335. Si tuvieses que escoger a  personas de salón, a quien escogerías?:
-336. Que es lo que más aprecias de la vida?:
-337. Qué fobia tienes? :
-338. Te gustaría vivir hasta que edad?:
-339. ¿En qué piensas al momento de despertar?:
-340. ¿En qué piensas al momento de levantarte?:
-342. Tiempo que te tomas para arreglarte:
-343. Cuánto es lo máximo que te has quedado hablando por teléfono?:
-344. Que es lo más asqueroso que has visto en vivo?:
-345. Si un OVNI te rapta, que le dirías?:
-346. Te han raptado los Ovnis?:
-347. Eres supersticioso (a):
-348. ¿Cuánto tiempo desayunando solo?:
-349. ¿Cuánto tiempo desayunando si es con compañía?:
-350. ¿En qué piensas durante el trayecto a tu casa o colegio o lo que sea, además de la inmortalidad del cangrejo?:
-351. Tienes celular?:
-352. Telefono:
-353. Móvil:
-354. ¿Cuánto ha sido lo máximo que has estado en un baño (ducha y/o tina)?:
-355. Te han robado?:
-356. ¿Cuántas velas en tu última torta de cumpleaños?:
-357. Te sabes los 10 mandamientos?:
-358. Te sabes alguna canción religiosa?:
-359. Que nombre te gustaría tener?:
-360. ¿Qué o a quién tienes de fondo de escritorio?:
-361. ¿Qué máscara o skin usas en tu reproductor de MP o lo que escuches?:
-362. Te asustan las tormentas?:
-363. ¿Sabías que 2+2 no es necesariamente 4?:
-364. Te ha pasado algo sobrenatural?:
-365. ¿Sabías que hay mujeres que fueron malditas con el nombre Escolástica?:
-366. Te ha pasado que vas caminando descalzo y te pegas en el dedo pequeño del pie con una esquina?:
-367. Tienes sabanas con dibujos animados?:
-368. ¿Qué nombre le tienes puesto a la papelera de reciclaje?:
-369. Quién fue la ultima persona con la que hablaste por teléfono?:
-370. Que hiciste anoche?:
-371. Cuál fue el último CD que compraste?:
-372. ¿quieres una pregunta rebuscada?:
-373. Hayas respondido lo que sea, aquí va ¿Si el hombre fue hecho a semejanza de dios, de dónde sacó el modelo para la mujer?:
-374. Frase de película que te ha impactado:
-375. Alguna vez habías respondido un cuestionario con tantas preguntas?:
-376. ¿Sabías que el % de las estadísticas están equivocadas?:
-377. Si te murieras en este instante, ¿tendrías algún remordimiento?:
-378. ¿Qué esperas o quieres hacer antes de morir?:
-379. te gustaría matar al hechor de este cuestionario?:
-380. Crees que te quede plano el poto después de llenar este cuestionario?:
-381. ¿sabías que los más ociosos entre los ociosos son los artistas?:
-382. ¿Tenías presente que gracias a los europeos que aquí llegaron muchas de las enfermedades que azotaron a los pueblos nativos?:
-383. Sigues con sueño?:
-384. Te has asustado al verte una mañana en el espejo?:
-385. Que es lo primero que haces al despertarte?:
-386. Ahora… que piensas sobre la persona que creo este cuestionario:
-387. Cuál es la carta más larga que has hecho por Internet?:
-388. Quién crees que responda este cuestionario?:
-389. Sabias que estar mucho tiempo sentado enfrente de la computadora es nocivo para la salud?:
-390. Que marca de reloj tienes actualmente?:
-392. Cuándo fue tu ultima visita al hospital?:
-393. De que color es la alfombra de tu dormitorio:
-394. Dónde te ves en 10 años?:
-395. Quién de tus amigos vive mas lejos:
-396. Cuantos timbrazos antes de atender el teléfono?:
-397. Algo que tienes puesto siempre y nunca te lo sacas?:
-399. Que hay en las paredes de tu dormitorio?:
-400. Que hay debajo de tu cama?:
-401. 2 o 4 puertas?:
-402. La Mejor Fiesta en la que has estado Este Año:
-403. La Peor Pesadilla que has tenido:
-404. Sueño Más Trágico que has tenido:
-405. Algún mensaje ridículo para los que vayan a contestar esto:
-406. El Mejor lugar donde has ido de vacaciones:
-407. Palabras para desahogarte:
-408. ¿Que fue lo último que comiste?:
-409. Si fueras una crayola, qué color serías?:
-410. Dónde planeas ir en tu luna de miel?:
-411. Cómo Comes tus obleas?:
-412. Cuál es el próximo CD que te vas comprar?:
-413. Mes favorito?:
-414. Cuál es tu trago favorito?:
-415. Ultima película que viste?:
-416. Que libros estás leyendo?:
-417. Cuándo tendrás hijos?:
-418. Te gusta manejar rápido?:
-419. Qué hay en el estereo de tu carro ahora mismo?:
-420. Alguna vez has tomado tanto que hasta perdiste la conciencia?:
-421. Alguna vez has faltado a clases solo porque estaba lloviendo?:
-422. Limpiaste tu cuarto?:
-423. Lavaste ropa:
-424. Manejaste:
-425. ¿Cuánto tiempo de vuelta del colegio a casa?:
-426. ¿Tienes banda ancha y puedes estar todo el día en internet o tienes cronómetro?:
-427. ¿Qué nota te sacaste la última vez que te fue bien en una prueba?:
-428. ¿Tienes tus discos y MP ordenados, o hechos un caos?:
-430. ¿Sabías que las mujeres que menstrúan son inmundas según la biblia?:
-431. ¿Y sabías que según los musulmanes al morir un hombre, en el paraíso se le regalan ángeles a los que puede “unirse” (en castellano culto, copular) tantas veces como ayunó en el ramadá?:
-432. ¿Qué marca de lápices ocupas?:
-433. ¿En qué supermercado compras la mercadería?:
-434. ¿Tienes funda para tu computador?:
-435. ¿Sabías que  de 1 c/4 personas sufre algún trastorno en su cabeza? :
-436. ¿Es correcto decir que la mitad de 2+2 es 3?:
-437. ¿Qué dirías si supieras que tenía una pregunta muy buena y se me olvido?:
-439. ¿Sabías que las religiones abrahamistas(cristianismo, judaismo e islamismo)son religiones misóginas?:
-441. Un mensaje para la humanidad creado por ti:
-442. Te gustó el cuestionario?:
-443. Dijiste la verdad?:
-444. Otras palabras para desahogarte por hacer este cuestionario:
-445. Mensaje misceláneo:
-446. Qué escuchas ahora:
-449. ¿Algo más?:
+26. Del 1 al 10, ¿que tan exagerado te consideras?
+27. del 1 al 10, ¿qué tan ocioso te consideras?
+28. Que nombre le pondrías a tu(s) hija(s)?
+29. Qué nombre le pondrías a tu(s) hijo(s)?
+30. Tienes piercings, tatuajes o algo por el estilo?
+31. ¿y tienes el pelo teñido?
+32. si pudieras teñirte el pelo de que color seria?
+33. Haz guardado secretos?
+34. Te has drogado?
+37. Quisieras besar apasionadamente a alguien
+38. Tocas algún instrumento musical
+39. Palabras que más dices
+40. ¿Sabías que este número(40)corresponde al chorrocientos mil de los judíos?
+42. Lugar al que más te gusta ir
+43. Que es lo que más te gustaría tener en tu vida
+44. La persona que más extrañas
+45. Quién no te fallaría nunca
+46. Que te pone de buenas
+47. Duermes con peluches
+48. Hora en que te vas a dormir normalmente
+49. Dónde vives
+50. Estás aburrido(a)?
+51. Eres bueno(a) para contar chistes?
+52. Quién te ha hecho madurar?
+53. Quién te ha dado el golpe mas duro en tu vida
+54. Quién te ha hecho pensar?
+55. Has llorado?
+56. ¿Quisiste tanto a alguien como para llorar?
+57. Cuál ha sido la pena más grande que has pasado?
+58. Quién es tu mejor cyber-amigo(a)?
+59. Que es lo mejor que cocinas?
+60. Alguna vez has vomitado?
+61. Has vomitado por borrachera?
+62. ¿Estás consciente de que ni siquiera has empezado el cuestionario?
+63. ¿Tomas?
+64. En que Universidades has quedado
+65. Sabes manejar?
+66. Tienes auto?
+67. Tienes licencia?
+68. Cuál es el sentimiento mas detestado por ti?
+69. Cuál es el sentimiento mas apreciado por ti?
+70. Mejores amigos
+71. Amigos Especiales
+72. Has perdido a algún buen amigo por tu culpa?
+73. Te has puesto a llorar por teléfono?
+74. Confías en la gente con facilidad?
+75. Que es lo más duro que te han dicho en tu vida?
+76. Que es lo que más te molesta de ti?
+77. te pones triste con canciones melancólicas
+78. De que color son los ojos de tu mamá?
+79. Y de qué color son los ojos de tu papá?
+80. Has fumado?
+81. te has emborrachado?
+82. Sabes otro idioma
+83. Que vas a estudiar en la Universidad?
+84. ¿Por que partes de Chile has viajado?
+85. Estuviste en un choque de autos
+86. Cómo llamabas a tu osito de dormir?
+no tenia nombre 87. Cuál es el auto de tus sueños
+88. ¿Cuál fue tu primer coche?
+89. La Persona que más Quieres en el mundo
+90. La Persona que más ODIAS en el Mundo
+91. Tu héroe (además de ti)
+92. ¿Que es lo que siempre has deseado?
+93. ¿Qué es lo que siempre has detestado?
+94. ¿Tomas o Fumas?
+95. La Persona que más feliz te ha hecho en tu vida?
+96. Tuviste un amigo imaginario cuando eras pequeño (a)?
+97. Alguna vez nadaste desnudo
+98. Te llevas bien con tus viejos
+99. Descríbete en 4 palabras
+100. Te burlas de la gente
+101. ¿Qué escuchas ahora?
+102. Hora y día
+103. Quieres seguir respondiendo?
+104. Colores favoritos
+105. Olor favorito
+106. Olor que odias?
+107. Mejor pecado del mundo
+108. Revista favorita
+109. Estación que te gusta mas
+110. Carta o mail
+111. Equipo de fútbol
+112. Programa de TV favorito
+113. Juego de mesa favorito
+114. Una almohada o dos
+115. Juguete favorito
+116. Comida favorita
+117. Salchichas o hamburguesas?
+118. Restaurante favorito
+119. Restaurante de comida rápida favorito
+120. Cuál es tu película favorita?
+121. Cuál es tu comic favorito?
+122. Canal de cable favorito?
+123. Serie favorita?
+124. ¿Filosofía o psicología?
+125. Arte preferido
+126. Chocolate blanco o negro
+127. Vainilla o chocolate
+128. Tarta o pie
+129. Plata u oro
+130. ¿Lluvia o sol?
+131. ¿Sprite o Seven Up?
+132. ¿Café o té?
+133. ¿Sabanas lisas o con animalitos?
+134. ¿Color de calcetines?
+135. ¿Feria o fiesta favorita?
+136. Condimento favorito en una ensalada
+137. ¿La Gaseosa, con o sin hielo?
+138. ¿Disney o Warner Bros?
+139. Que tipo de música te gusta?
+140. Cuál es tu grupo favorito?
+141. Cantante masculino y femenino favorito
+142. Canción favorita
+143. ¿Paraiso o infierno?
+144. Color de ropa interior preferido
+145. Te gusta que te quieran?
+146. Te gusta llorar?
+147. Cuál es tu personaje de TV preferido
+148. Coca-Cola o Pepsi?
+149. ¿Prefieres que te preparen el desayuno o que te lo prepares tú?
+150. Te gusta cocinar?
+151. Donde te gustaría viajar?
+152. Dónde te gustaría quedarte a vivir?
+153.Te gustan las estrellas?
+154. Te gusta la mitología
+155. Te gustan los chats?
+156. Lo que más te gusta hacer en el mundo, además de llenar este tipo de cuestionarios
+158. te gusta tomar licor?
+159. Cuál es tu deporte favorito?
+160. cual es tu numero favorito
+161. Marca de zapatos favorita
+162. animal favorito
+163. Días favoritos
+164. Te gusta el teatro?
+165. Cuál es tu hobby?
+166. Quisieras ir a Marte?
+167. Fruta favorita?
+168. Cuál es tu libro favorito?
+169. Pagina web favorita?
+170. Hot-dog o choripan
+171. Asignatura favorita?
+172. Feriado favorito
+173. Flor
+174. Tema de conversación más detestado
+175. Mejor serie infantil de todos los tiempos?
+176. Tom o Jerry?
+177. Frase preferida
+178. Fiestas en Casa o Discos?
+180. Música Preferida Para Bailar
+181. Música Detestada Para Bailar
+182. Juego de Video Favorito
+183. Te gustan las peliculas felices o de terror
+184. Sonido favorito?
+185. Cosa favorita de la vida?
+186. Shampoo favorito
+187. Helado favorito
+188. ¿Winamp o windows media player?
+189. ¿Café caliente o helado?
+190. ¿Té caliente o helado?
+191. ¿Qué escuchas ahora?
+192. Hora y día
+193. Crees bueno seguir respondiendo?
+194. Qué opinas de tu mamá
+195. Y tu papá
+196. El peor sentimiento del mundo
+197. El mejor sentimiento del mundo
+198. A quien consideras/te especial de tu colegio?
+199. Quién te parece misterioso (a)?
+200. Quién te parece el/la mas gracioso?
+202. Persona + loca y + simple que conoces
+203. ¿El vaso, mitad lleno o mitad vacío?
+204. Que piensas de la muerte?
+205. Crees en Dios?
+206. Qué piensas de las películas porno?
+207. Qué piensas de los gays?
+208. Qué piensas de las lesbianas?
+209. Tendencia Política
+210. Qué opinas de la tabla Ouija?
+211. Que piensas de “Celebrity Death Match”?
+212. En ti mism@
+213. En tus amigos
+214. En el destino
+215. En Angeles
+216. En Fantasmas 
+217. ¿Politeísta o monoteísta?
+218. Tu religión
+219. ¿Crees tú que el ser humano ha superado la etapa mercantilista de la economía?
+221. ¿Quién te puede asegurar que esto no es una teleserie y tú no eres el/la personaje central o un o secundario?
+222. ¿Entendiste la pregunta anterior?
+223. ¿Qué te hace pensar que no hay alguien que te está mirando en este preciso instante?
+224. ¿Cuál es según tú lo peor que le pudo haber pasado a este mundo?
+225. ¿Crees en la vida inteligente extraterrestre?
+226. ¿Crees que el ser humano es un ser estúpido o inteligente?
+227. ¿Qué estás escuchando ahora?
+228. fecha y hora
+230. Amor platónico
+232. Te ha gustado algún/a amigo/a tuyo/a
+233. Le darías un beso apasionado a la persona que te mandó este correo?
+234. Y darías un beso apasionado a alguien de los que mandaste este mail?
+235. Estas enamorado?
+236. ¿Pelo corto o largo?
+237. ¿Alto o pequeño?
+238. Cuadrado o musculitos
+239. Chico bueno o malo
+240. Con dinero o sin dinero
+241. pendientes en la oreja
+242. Con pecas o sin
+243. Con barba o afeitado
+244. ¿Algún chico ronda tus pensamientos?
+245. ¿Cuál es su nombre?
+246. ¿Qué canción le dedicarías?
+247. Braguita normal o tanga
+248. Uñas pintadas o sin pintar
+249. Sujetador normal o deportivo
+250. Tranquila y misteriosa o sexy y salvaje
+251. Pijilla o rapera
+252. Pelo corto o largo
+253. Uñas largas o cortas
+254. Chica buena o mala
+255. Rellenita o delgada
+256. Pelo recogido o suelto
+257. Alta o baja
+258. Pelo rizado o liso
+259. Morenita de piel o blanca
+260. Con pecas o sin pecas
+261. Chica en plan fiesta o más bien tranquila
+262. Lanzada o tímida
+263. Rubia o Morena?
+264. ¿Alguna chica ronda tus pensamientos?
+265. Cuál es su nombre?
+266. Que canción le dedicarias?
+267. A que persona has querido como nunca?
+268. Sientes miedo cuando empiezas a querer alguien?
+269. Qué piensas de tu pareja?
+270. Que sientes ante un amor imposible?
+271. Alguna vez has tenido un amor imposible?
+272. ¿Estuviste enamorado?
+273. Dónde te gusta que te besen?
+274. Te gustan las citas a ciegas?
+275. Eres sensible?
+276. Cuál es la mujer / hombre perfecto para ti?
+277. Que le quieres decir a la persona que amas con tanta pasión?
+278. Que le quieres decir a la persona que te ama con tanta pasión?
+279. Te gusta hablar del amor?
+280. Te has podido levantar a alguien con novio (a)?
+281. Has profanado?
+283. Le has enseñado a alguien a besar?
+284. ¿Que Prefieres, que alguien conquiste tu corazón, o que tu conquistes el de ella?
+285. La Persona que más has AMADO en todo el tiempo que has vivido?
+286. La Persona más linda(o), regia(o) que hallas conocido
+287. Eres capas de amar tanto a una persona que llegarías a dar tu vida por él/ella
+288. Si tú estas pololeando, y tu mejor amiga(o) intenta de quitarte a tu pololo(a) ¿que le harías?
+289. ¿Lugar favorito para estar con tu pareja (pololo[a])?
+290. Tú…si tuvieras que elegir entre tu MEJOR amigo(a) o tu pololo(a)…
+291. Si Tu pololo(a) se va a vivir muy lejos de ti, y solo se podrían ver en las vacaciones ¿tú seguirías con el(ella) o darías todo como acabado?
+292. ¿Has Soñado con esa persona que amas más de una vez?
+294. Besos o abrazos?
+296. Alguna vez quisiste andar con un amigo(A)?
+297. Estuviste enamorado(A) de un maestro(A)
+298. prefieres noviazgo o free
+300. Qué escuchas ahora
+301. Fecha y hora
+302. Estas consciente que aun quedan muchas mas preguntas por responder?
+303. Que piensas sobre la persona que te mandó esto?
+ESTOS MOMENTOS 304. Cómo te sientes hoy?
+305. Qué hay a tu lado?
+306. Cómo estas vestida(o)?
+307. Tienes sueño?
+308. ¿En qué(o quién) piensas en este momento, fuera del cuestionario?
+309. De que color es tu ropa interior hoy?
+310. ¿tienes los cordones de lo que lleves en los pies bien amarrados?
+312. Estás hablando con alguien
+313. Cuál es el nombre más raro que has escuchado?
+314. Te ha tocado una cucaracha (o algo parecido) en la hamburguesa o en el refresco?
+315. Que vas a hacer después de llenar el cuestionario?
+316. ¿Cuánto piensas antes de contestar?
+317. A quien pondrías o tienes en lista?
+318. ¿Te has roto alguna vez un hueso?
+319. Cantas en la ducha?
+320. Algo q no soportes
+321. ¿Fuiste a África?
+322. ¿Fuiste a Europa?
+323. ¿Fuiste a Asia?
+324. ¿Fuiste a Oceanía?
+325. ¿Fuiste a América del Norte?
+326. ¿Fuiste a América Central?
+327. ¿Fuiste al Caribe?
+328. ¿Fuiste a América del Sur?
+329. ¿Luego de tantos “no’s”, has salido del país donde vives?
+330. ¿Cuántas veces suspendiste tu examen de conducir?
+331. ¿Qué cambiarías de tu vida?
+332. ¿Que dejarías como está?
+333. ¿Si pudieras ser otra persona?
+334. a quien odias de tu salon?
+335. Si tuvieses que escoger a 3 personas de salón, a quien escogerías?
+336. Que es lo que más aprecias de la vida?
+337. Qué fobia tienes? 
+338. Te gustaría vivir hasta que edad?
+339. ¿En qué piensas al momento de despertar?
+340. ¿En qué piensas al momento de levantarte?
+342. Tiempo que te tomas para arreglarte
+343. Cuánto es lo máximo que te has quedado hablando por teléfono?
+344. Que es lo más asqueroso que has visto en vivo?
+345. Si un OVNI te rapta, que le dirías?
+346. Te han raptado los Ovnis?
+347. Eres supersticioso (a)
+348. ¿Cuánto tiempo desayunando solo?
+349. ¿Cuánto tiempo desayunando si es con compañía?
+350. ¿En qué piensas durante el trayecto a tu casa o colegio o lo que sea, además de la inmortalidad del cangrejo?
+351. Tienes celular?
+352. Telefono
+353. Móvil
+354. ¿Cuánto ha sido lo máximo que has estado en un baño (ducha y/o tina)?
+355. Te han robado?
+356. ¿Cuántas velas en tu última torta de cumpleaños?
+357. Te sabes los 10 mandamientos?
+358. Te sabes alguna canción religiosa?
+359. Que nombre te gustaría tener?
+360. ¿Qué o a quién tienes de fondo de escritorio?
+361. ¿Qué máscara o skin usas en tu reproductor de MP3 o lo que escuches?
+362. Te asustan las tormentas?
+363. ¿Sabías que 2+2 no es necesariamente 4?
+364. Te ha pasado algo sobrenatural?
+365. ¿Sabías que hay mujeres que fueron malditas con el nombre Escolástica?
+366. Te ha pasado que vas caminando descalzo y te pegas en el dedo pequeño del pie con una esquina?
+367. Tienes sabanas con dibujos animados?
+368. ¿Qué nombre le tienes puesto a la papelera de reciclaje?
+369. Quién fue la ultima persona con la que hablaste por teléfono?
+370. Que hiciste anoche?
+371. Cuál fue el último CD que compraste?
+372. ¿quieres una pregunta rebuscada?
+373. Hayas respondido lo que sea, aquí va ¿Si el hombre fue hecho a semejanza de dios, de dónde sacó el modelo para la mujer?
+374. Frase de película que te ha impactado
+375. Alguna vez habías respondido un cuestionario con tantas preguntas?
+376. ¿Sabías que el 99% de las estadísticas están equivocadas?
+377. Si te murieras en este instante, ¿tendrías algún remordimiento?
+378. ¿Qué esperas o quieres hacer antes de morir?
+379. te gustaría matar al hechor de este cuestionario?
+380. Crees que te quede plano el poto después de llenar este cuestionario?
+381. ¿sabías que los más ociosos entre los ociosos son los artistas?
+382. ¿Tenías presente que gracias a los europeos que aquí llegaron muchas de las enfermedades que azotaron a los pueblos nativos?
+383. Sigues con sueño?
+384. Te has asustado al verte una mañana en el espejo?
+385. Que es lo primero que haces al despertarte?
+386. Ahora… que piensas sobre la persona que creo este cuestionario
+387. Cuál es la carta más larga que has hecho por Internet?
+388. Quién crees que responda este cuestionario?
+389. Sabias que estar mucho tiempo sentado enfrente de la computadora es nocivo para la salud?
+390. Que marca de reloj tienes actualmente?
+392. Cuándo fue tu ultima visita al hospital?
+393. De que color es la alfombra de tu dormitorio
+394. Dónde te ves en 10 años?
+395. Quién de tus amigos vive mas lejos
+396. Cuantos timbrazos antes de atender el teléfono?
+397. Algo que tienes puesto siempre y nunca te lo sacas?
+399. Que hay en las paredes de tu dormitorio?
+400. Que hay debajo de tu cama?
+401. 2 o 4 puertas?
+402. La Mejor Fiesta en la que has estado Este Año
+403. La Peor Pesadilla que has tenido
+404. Sueño Más Trágico que has tenido
+405. Algún mensaje ridículo para los que vayan a contestar esto
+406. El Mejor lugar donde has ido de vacaciones
+407. Palabras para desahogarte
+408. ¿Que fue lo último que comiste?
+409. Si fueras una crayola, qué color serías?
+410. Dónde planeas ir en tu luna de miel?
+411. Cómo Comes tus obleas?
+412. Cuál es el próximo CD que te vas comprar?
+413. Mes favorito?
+414. Cuál es tu trago favorito?
+415. Ultima película que viste?
+416. Que libros estás leyendo?
+417. Cuándo tendrás hijos?
+418. Te gusta manejar rápido?
+419. Qué hay en el estereo de tu carro ahora mismo?
+420. Alguna vez has tomado tanto que hasta perdiste la conciencia?
+421. Alguna vez has faltado a clases solo porque estaba lloviendo?
+422. Limpiaste tu cuarto?
+423. Lavaste ropa
+424. Manejaste
+425. ¿Cuánto tiempo de vuelta del colegio a casa?
+426. ¿Tienes banda ancha y puedes estar todo el día en internet o tienes cronómetro?
+427. ¿Qué nota te sacaste la última vez que te fue bien en una prueba?
+428. ¿Tienes tus discos y MP3 ordenados, o hechos un caos?
+430. ¿Sabías que las mujeres que menstrúan son inmundas según la biblia?
+431. ¿Y sabías que según los musulmanes al morir un hombre, en el paraíso se le regalan ángeles a los que puede “unirse” (en castellano culto, copular) tantas veces como ayunó en el ramadá?
+432. ¿Qué marca de lápices ocupas?
+433. ¿En qué supermercado compras la mercadería?
+434. ¿Tienes funda para tu computador?
+435. ¿Sabías que 1 de c/4 personas sufre algún trastorno en su cabeza? 
+436. ¿Es correcto decir que la mitad de 2+2 es 3?
+437. ¿Qué dirías si supieras que tenía una pregunta muy buena y se me olvido?
+439. ¿Sabías que las religiones abrahamistas(cristianismo, judaismo e islamismo)son religiones misóginas?
+441. Un mensaje para la humanidad creado por ti
+442. Te gustó el cuestionario?
+443. Dijiste la verdad?
+444. Otras palabras para desahogarte por hacer este cuestionario
+445. Mensaje misceláneo
+446. Qué escuchas ahora
+449. ¿Algo más?
 450. ¿No se te olvida nada?:
