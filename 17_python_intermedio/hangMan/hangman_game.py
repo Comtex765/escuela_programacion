@@ -94,14 +94,21 @@ def draw_man(lifes):
               "   /      \           |||            \n")
 
 
-def read_data():
+def read_data(opt):
     """[Read data's file]
 
     Returns:
         [array]: [return an array from data.txt]
     """
-    with open("./archivos/data.txt", "r", encoding="utf-8") as f:
-        data = [line for line in f]
+    if opt == 1:
+        with open("./archivos/ENG.txt", "r", encoding="utf-8") as f:
+            data = [line for line in f]
+    elif opt == 2:
+        with open("./archivos/ESP.txt", "r", encoding="utf-8") as f:
+            data = [line for line in f]
+    else:
+        print("ERROR")
+        exit()
     return data
 
 
@@ -133,7 +140,9 @@ def choose_word(data):
 
 
 def game_start():
-    welcome = "Bienvenido a HANGMAN GAME"
+    os.system("clear")
+
+    welcome = "HANGMAN GAME"
 
     print("+"*(2 + len(welcome)) +
           "\n|"+welcome+"|\n" +
@@ -143,18 +152,11 @@ def game_start():
     os.system("clear")
 
 
-def you_win():
-    os.system("clear")
-    os.system("clear")
-    os.system("clear")
-    os.system("clear")
-    os.system("clear")
-    os.system("clear")
-    os.system("clear")
-    os.system("clear")
+def you_win(opt, chose):
     os.system("clear")
 
-    print(" #########               \n",
+    if opt == 1:
+        print(" #########               \n",
           "# o     o #              \n",
           "#   /|    #              \n",
           "# \____/  #              \n",
@@ -171,18 +173,47 @@ def you_win():
           "  /    \                 \n",
           " /      \                \n")
 
-    win = "Congratulations, YOU WIN"
+        win = "Congratulations, YOU WIN"
 
-    print("\n"+"+"*(2 + len(win)) +
-          "\n|"+win+"|\n" +
-          "+"*(2 + len(win)))
+        print("\n"+"+"*(2 + len(win)) +
+            "\n|"+win+"|\n" +
+            "+"*(2 + len(win)))
+
+        print(f"\nYou got it with: {chose}")
+
+    elif opt == 2:
+        print(" #########               \n",
+          "# o     o #              \n",
+          "#   /|    #              \n",
+          "# \____/  #              \n",
+          " #########               \n",
+          "    ||                   \n",
+          "__  ||  __               \n",
+          "  \ || /  +-------+       \n",
+          "   \||/   |Gracias|       \n",
+          "    ||    +-------+       \n",
+          "    ||                   \n",
+          "    ||                   \n",
+          "    ||                   \n",
+          "   /  \                  \n",
+          "  /    \                 \n",
+          " /      \                \n")
+
+        win = "Felicidades, GANASTE!"
+
+        print("\n"+"+"*(2 + len(win)) +
+            "\n|"+win+"|\n" +
+            "+"*(2 + len(win)))
+
+        print(f"\nAcertaste con: {chose}")
 
     time.sleep(1)
     exit()
 
 
-def game_over(word_chose):
-    print("   #########           |||           \n",
+def game_over(word_chose, opt):
+    if opt == 1:
+        print("   #########           |||           \n",
           "==# x     x #=========|||            \n",
           "  #   /|    #         |||            \n",
           "  #  ----   #         |||            \n",
@@ -199,21 +230,57 @@ def game_over(word_chose):
           "    /    \   |HELP|   |||            \n",
           "   /      \  +----+   |||            \n\n")
 
-    win = ":( You LOSE ):"
+        win = ":( You lost ):"
 
-    print("+"*(2 + len(win)) +
-          "\n|"+win+"|\n" +
-          "+"*(2 + len(win)))
+        print("+"*(2 + len(win)) +
+            "\n|"+win+"|\n" +
+            "+"*(2 + len(win)))
 
-    print("\n")
-    print("La palabra era: ", word_chose)
+        print("\n")
+        print("The word was: ", word_chose)
+
+    elif opt == 2:
+        print("   #########           |||           \n",
+          "==# x     x #=========|||            \n",
+          "  #   /|    #         |||            \n",
+          "  #  ----   #         |||            \n",
+          "   #########          |||            \n",
+          "      ||              |||            \n",
+          "      ||              |||            \n",
+          "      ||              |||            \n",
+          "      ||              |||            \n",
+          "     /||\             |||            \n",
+          "    / || \            |||            \n",
+          "      ||              |||            \n",
+          "      ||              |||            \n",
+          "     /  \    +----+   |||            \n",
+          "    /    \   |HELP|   |||            \n",
+          "   /      \  +----+   |||            \n\n")
+
+        win = ":( PERDISTE ):"
+
+        print("+"*(2 + len(win)) +
+            "\n|"+win+"|\n" +
+            "+"*(2 + len(win)))
+
+        print("\n")
+        print("La palabra era: ", word_chose)
+    
+    
 
     time.sleep(2)
     exit()
 
 
 def game():
-    words = read_data()
+    print("Choose your language: \n",
+                    "[1] English \n",
+                    "[2] Español \n")
+    opt = int(input("-----> "))
+
+    os.system("clear")
+
+    words = read_data(opt)
     chose = choose_word(words)
     no_accent = normalize(chose)
     corrects = []
@@ -233,15 +300,19 @@ def game():
 
                 if aux == len(no_accent):
                     os.system("clear")
-                    you_win()
+                    print("\n")
+                    you_win(opt, chose)
             else:
                 print("_", end="")
 
         print('\n\n')
 
         try:
-
-            key = input("Tell me a letter(Dime una letra): ")
+            if opt == 1:
+                key = input("Tell me a letter: ")
+            elif opt == 2:
+                key = input("Dime una letra: ")
+    
             os.system("clear")
 
             if key.isnumeric() or len(key) > 1 or len(key) == 0:
@@ -261,7 +332,7 @@ def game():
                     if confirms == len(no_accent):
                         lifes -= 1
                         if lifes == 0:
-                            game_over(chose)
+                            game_over(chose, opt)
 
         except Exception:
             print("Debes ingresar SOLO una letra, tampoco debes ingresar números")
